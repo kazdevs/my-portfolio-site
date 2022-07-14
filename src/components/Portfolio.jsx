@@ -33,8 +33,8 @@ const Portfolio = () => {
       id: 4,
       projectName: 'Tic-tac-toe game',
       src: tictactoe,
-      demoLink: '',
-      codeLink: '',
+      demoLink: 'https://tic-tac-toe-game-vanilla-js.netlify.app/',
+      codeLink: 'https://github.com/kazdevs/Tic-Tac-Toe-game',
     },
     {
       id: 5,
@@ -47,8 +47,8 @@ const Portfolio = () => {
       id: 6,
       projectName: 'Grocery-bud-react-js',
       src: grocerybud,
-      demoLink: '',
-      codeLink: '',
+      demoLink: 'https://grocery-bud-react-js-app.netlify.app/',
+      codeLink: 'https://github.com/kazdevs/Grocery-bud-react-js',
     },
   ]
 
